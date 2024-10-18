@@ -100,3 +100,5 @@ def delete_notepad(notepad_id):
     
     return redirect(url_for('notepad.index'))
 
+
+
